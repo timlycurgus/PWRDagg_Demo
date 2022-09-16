@@ -6,5 +6,4 @@ It contains the following:
   - PWRD_Demo.Rmd: an RMarkdown file that demonstrates construction of PWRD aggregation weights from synthetic data.
   - PWRD_Demo.pdf: the compiled RMarkdown file. 
   - PWRD_Demo.csv: the synthetic data used in PWRD_Demo.Rmd. This data mirrors the structure of a reading intervention providing supplemental instruction to students falling behind in learning to read. 
-  - PWRD_Aggregation.pdf: the arxiv version of the paper introducing PWRD Aggregation.
 
